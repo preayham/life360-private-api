@@ -3,7 +3,7 @@
   "description": "Life360 Private API client for full access to Life360.",
   "author": "preayham",
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
