@@ -24,7 +24,7 @@ npm install life360-private-api
 From github
 
 ```
-npm install github:ayhamtwam/life360-private-api
+npm install github:preayham/life360-private-api
 ```
 
 # Examples
